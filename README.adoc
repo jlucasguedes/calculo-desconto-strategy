@@ -21,10 +21,10 @@ Considere que temos um sistema de vendas onde diferentes formas de desconto pode
 == Responda
 
 1. Qual padrão de projeto pode ser utilizado no desenvolvimento de uma solução? 
-  <p>Como se trata de comportamentos o padrão strategy se encaixa bem como um solução.</p>
+  - Como se trata de comportamentos o padrão strategy se encaixa bem como um solução.
 2. Como poderíamos implementar estes tipos de desconto sem utilizar Padrões de Projetos?
-  <p>Usando IFs para comprar quando desconto será usado.</p>
+  - Usando IFs para comprar quando desconto será usado.
 3. Quais os problemas que tal implementação traria?
-  <p>Teria um maior acoplamento caso o cliente tivesse que criar novas estrategias de descontos, seria mais trabalhoso e confuso.</p>
+  - Teria um maior acoplamento caso o cliente tivesse que criar novas estrategias de descontos, seria mais trabalhoso e confuso.
 4. Implemente o projeto e envie o link para repositório no GitHub, onde o README deve conter as respostas.
 https://github.com/jlucasguedes/calculo-desconto-strategy/
